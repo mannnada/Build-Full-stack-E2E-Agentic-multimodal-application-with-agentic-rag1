@@ -5,7 +5,7 @@
 Minimal starter to build & deploy an **agentic, multimodal RAG** app (text + images) with ADK and Gemini 2.5 Flash. Ships with a tiny FastAPI server, YAML config, and Docker/Cloud Run deploy.
 
 **Codelab:** [https://codelabs.developers.google.com/personal-expense-assistant-multimodal-adk](https://codelabs.developers.google.com/personal-expense-assistant-multimodal-adk)
-**YouTube:** https://youtu.be/DBbb1elqfoA
+**YouTube:** https://youtu.be/rKJLsa8qZbE
 
 ---
 
